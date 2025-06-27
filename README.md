@@ -2,10 +2,10 @@
 ![image](https://github.com/user-attachments/assets/1c5d9daf-3854-4572-8dbc-950aa7edcaf4)
 
 Đây là một chatbot đơn giản được tạo bởi Elasticsearch, LangChain và một số LLM API cùng với data của riêng bạn
-
+## Demo
+https://github.com/user-attachments/assets/cb668f4f-87e1-4898-917c-410838a464db
 ## Download the Project
 Tải project về từ github
-
 ```bash
 git clone https://github.com/UETER2226/BigData_Final_Project.git
 ```
